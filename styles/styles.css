@@ -314,6 +314,7 @@ section {
 .header-content .right-header p {
   margin: 1.5rem 0;
   line-height: 2rem;
+ 
 }
 
 /*About*/
@@ -805,12 +806,14 @@ section {
 .contact-content-con .right-contact .submit-btn {
   display: flex;
   justify-content: flex-start;
+
 }
 
 /*Independed components*/
 .btn-con {
   display: flex;
   align-self: flex-start;
+  
 }
 
 #btnn{
@@ -896,6 +899,12 @@ section {
 
 @media screen and (max-width: 600px) {
 
+ 
+  .header-content .right-header p {
+    margin: 1.5rem 0;
+    line-height: 2rem;
+   padding-right: 5rem;
+  }
   .right-header {
     padding-right: 0rem !important;
     width: 90%;
@@ -1043,6 +1052,12 @@ section {
 }
 @media screen and (max-width: 1432px) {
 
+
+  .header-content .right-header p {
+    margin: 1.5rem 0;
+    line-height: 2rem;
+   padding-right: 5rem;
+  }
   .right-header {
     padding-right: 0rem !important;
     width: 90%;
@@ -1095,6 +1110,12 @@ section {
   }
 }
 @media screen and (max-width: 1250px) {
+
+  .header-content .right-header p {
+    margin: 1.5rem 0;
+    line-height: 2rem;
+   padding-right: 5rem;
+  }
   .right-header {
     padding-right: 0rem !important;
     width: 90%;
@@ -1134,6 +1155,12 @@ section {
   }
 }
 @media screen and (max-width: 660px) {
+
+  .header-content .right-header p {
+    margin: 1.5rem 0;
+    line-height: 2rem;
+   padding-right: 5rem;
+  }
   .right-header {
     padding-right: 0rem !important;
     width: 90%;
@@ -1169,6 +1196,13 @@ section {
   }
 }
 @media screen and (max-width: 1070px) {
+
+  .header-content .right-header p {
+    margin: 1.5rem 0;
+    line-height: 2rem;
+   padding-right: 5rem;
+  }
+  
   .about-container {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -1187,6 +1221,11 @@ section {
 }
 @media screen and (max-width: 970px) {
 
+  .header-content .right-header p {
+    margin: 1.5rem 0;
+    line-height: 2rem;
+   padding-right: 5rem;
+  }
   .right-header {
     padding-right: 0rem !important;
     width: 90%;
@@ -1247,6 +1286,12 @@ section {
 }
 @media screen and (max-width: 700px) {
 
+  .header-content .right-header p {
+    margin: 1.5rem 0;
+    line-height: 2rem;
+   padding-right: 0rem;
+  }
+ 
   .right-header {
     padding-right: 0rem !important;
     width: 90%;
