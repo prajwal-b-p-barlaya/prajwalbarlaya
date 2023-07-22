@@ -781,6 +781,14 @@ section {
   flex: 3;
   margin-left: 3rem;
 }
+.contact-container .foot {
+  flex: 3;
+  padding-bottom: 5rem;
+}
+.foot {
+  flex: 3;
+  padding-bottom: 5rem;
+}
 .contact-content-con .right-contact .input-control {
   margin: 1.5rem 0;
 }
